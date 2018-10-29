@@ -3,12 +3,13 @@ Real-time Automatic Word Segmentation (for user-generated texts)
 
 ## Word Vector 
 Korean: [Pretrained 100dim fastText vector](https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor)
-* Download this and unzip THE FOLDER in the same folder with 'raws.py' 
-* Loading the model will be processed by load_model('vectors/model')
+* Download this and unzip in FOLDER 'vector'. 
+* Loading the model will be processed by fasttext.load_model('vectors/model_kor')
 * This model is identical to [Ttuyssubot](https://github.com/warnikchow/ttuyssubot)
 
 English: [GloVe Twitter 27B pretrained](http://nlp.stanford.edu/data/glove.twitter.27B.zip)
-* Download this and locate 100dim dictionary to the same folder with 'hashseg.py', in file name 'glove100.txt'.
+* Download this and locate 100dim dictionary (.txt) to FOLDER 'vector'.
+* Loading the model will be processed by loadvector('vectors/model_eng')
 * Dictionary-free version is under implementation!
 * This model is identical to [fdhs](https://github.com/warnikchow/fdhs)
 
