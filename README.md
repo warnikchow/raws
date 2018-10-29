@@ -43,11 +43,11 @@ English: [GloVe Twitter 27B pretrained](http://nlp.stanford.edu/data/glove.twitt
 
 ## System description
 ### Korean spacing<br/>
-<image src="https://github.com/warnikchow/raws/blob/master/fig2.png" width="700"><br/>
+<image src="https://github.com/warnikchow/raws/blob/master/images/fig2.png" width="700"><br/>
 ### English hashtag segmentation<br/>
-<image src="https://github.com/warnikchow/raws/blob/master/fig2_5.png" width="700"><br/>
+<image src="https://github.com/warnikchow/raws/blob/master/images/fig2_5.png" width="700"><br/>
 ### Specification<br/>
-<image src="https://github.com/warnikchow/raws/blob/master/table.PNG" width="500"><br/>
+<image src="https://github.com/warnikchow/raws/blob/master/images/table.PNG" width="500"><br/>
 
 ### DISCLAIMER: This model is trained with drama scripts and targets user-generated noisy texts; for the accurate spacing of literary style texts, refer to [PyKoSpacing](https://github.com/haven-jeon/PyKoSpacing)
 
