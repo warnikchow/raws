@@ -146,7 +146,6 @@ def hash_pred(sent,model,dic1,dic2,maxlen,wdim):
         if sent[j] in dic2:
           rnn[0][charcount,dic2[sent[j]]]=1
     z = model.predict([conv,rnn])[0]
-    print(z)
     sent_raw = ''
     count_char=-1
     for j in range(len(sent)):
