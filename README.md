@@ -58,7 +58,8 @@ English: [GloVe Twitter 27B pretrained](http://nlp.stanford.edu/data/glove.twitt
 ### Specification<br/>
 <image src="https://github.com/warnikchow/raws/blob/master/images/table%60.PNG" width="500"><br/>
  
-### Citation (As a toolkit and a concept of spacer targetting noisy user-generated text)
+## Citation 
+### As a toolkit and a concept of spacer targetting noisy user-generated text
 ```
 @article{cho2018real,
 	title={Real-time Automatic Word Segmentation for User-generated Text},
