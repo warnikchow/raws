@@ -1,6 +1,9 @@
 # raws
 Real-time Automatic Word Segmentation (for user-generated texts)
 
+## Requirements
+fastText, Keras (TensorFlow), Numpy
+
 ## Word Vector 
 Korean: [Pretrained 100dim fastText vector](https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor)
 * Download this and unzip in NEW FOLDER 'vector' in the name 'model_kor.bin'. 
