@@ -58,6 +58,16 @@ English: [GloVe Twitter 27B pretrained](http://nlp.stanford.edu/data/glove.twitt
 ### Specification<br/>
 <image src="https://github.com/warnikchow/raws/blob/master/images/table%60.PNG" width="500"><br/>
  
+### Citation (As a toolkit and a concept of spacer targetting noisy user-generated text)
+```
+@article{cho2018real,
+	title={Real-time Automatic Word Segmentation for User-generated Text},
+	author={Cho, Won Ik and Cheon, Sung Jun and Kang, Woo Hyun and Kim, Ji Won and Kim, Nam Soo},
+	journal={arXiv preprint arXiv:1810.13113},
+	year={2018}
+}
+```
+ 
 ### DISCLAIMER: This model is trained with drama scripts and targets user-generated noisy texts; for the accurate spacing of literary style texts, refer to [PyKoSpacing](https://github.com/haven-jeon/PyKoSpacing)
 
 ## Demonstration (for Korean)
