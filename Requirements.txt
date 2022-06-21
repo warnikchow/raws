@@ -1,4 +1,4 @@
 keras==2.1.2
-numpy==1.13.1
+numpy==1.22.0
 fasttext==0.8.3
 tensorflow-gpu==1.4.1
